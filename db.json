@@ -1,0 +1,158 @@
+{
+    "mensajeros": [
+      {
+        "id":"046000111",
+        "codAgencia": "046000",
+        "codUsuario" : "111",
+        "contraseña": "Grao000"
+      },
+      {
+        "id": "222",
+        "contraseña": "Grao222"
+      }
+    
+    ],
+    "servicios":[
+      {
+        "id": "046000111",
+        "codigo":"1111",
+        "nombreCliente" : "MyProtein",
+        "nombreEntrega":"",
+        "dniEntrega":"",
+        "direccion": "Calle de Alcalá, 50, 28014 Madrid, España",
+        "telefono": "644411261",
+        "cobrarAlCliente": false,
+        "fechaServicio": " " ,
+        "codBarras": "460001110001",
+        "incidencia": false,
+        "incidenciaText": "" ,
+        "incidenciaObservarciones": "",
+        "finalizado": false ,
+        "imagenAsStringBase64": ""
+      },
+      {
+        "id": "046000112",
+        "codigo": "1112",
+        "nombreCliente": "Primark",
+        "nombreEntrega":"",
+        "dniEntrega":"",
+        "direccion": "Calle Gran Vía, 20, 28013 Madrid, España",
+        "telefono": "612345678",
+        "cobrarAlCliente": false,
+        "fechaServicio": "2024-05-25",
+        "codBarras": "460001110002",
+        "incidencia": false,
+        "incidenciaText": "",
+        "incidenciaObservarciones": "",
+        "finalizado": false,
+        "imagenAsStringBase64": ""
+      },
+      {
+        "id": "046000113",
+        "codigo": "1113",
+        "nombreCliente": "JD",
+        "nombreEntrega":"",
+        "dniEntrega":"",
+        "direccion": "Calle Gran Vía, 20, 28013 Madrid, España",
+        "telefono": "655432189",
+        "cobrarAlCliente": false,
+        "fechaServicio": "2024-05-26",
+        "codBarras": "460001110003",
+        "incidencia": false,
+        "incidenciaText": "",
+        "incidenciaObservarciones": "",
+        "finalizado": false,
+        "imagenAsStringBase64": ""
+      },
+      {
+        "id": "046000114",
+        "codigo": "1114",
+        "nombreCliente": "Singularu",
+        "nombreEntrega":"",
+        "dniEntrega":"",
+        "direccion": "Calle de Atocha, 27, 28012 Madrid, España",
+        "telefono": "612345679",
+        "cobrarAlCliente": false,
+        "fechaServicio": "2024-06-01",
+        "codBarras": "460001110004",
+        "incidencia": false,
+        "incidenciaText": "",
+        "incidenciaObservarciones": "",
+        "finalizado": false,
+        "imagenAsStringBase64": ""
+    },
+    {
+        "id": "046000115",
+        "codigo": "1115",
+        "nombreCliente": "Mercadona",
+        "nombreEntrega":"",
+        "dniEntrega":"",
+        "direccion": "Calle Serrano, 45, 28006 Madrid, España",
+        "telefono": "655432190",
+        "cobrarAlCliente": false,
+        "fechaServicio": "2024-06-02",
+        "codBarras": "460001110005",
+        "incidencia": false,
+        "incidenciaText": "",
+        "incidenciaObservarciones": "",
+        "finalizado":false,
+        "imagenAsStringBase64": ""
+    },
+    {
+        "id": "046000116",
+        "codigo": "1116",
+        "nombreCliente": "Mecanico Juan",
+        "nombreEntrega":"",
+        "dniEntrega":"",
+        "direccion": "Calle Princesa, 1, 28008 Madrid, España",
+        "telefono": "655432191",
+        "cobrarAlCliente": false,
+        "fechaServicio": "2024-06-03",
+        "codBarras": "460001110006",
+        "incidencia": false,
+        "incidenciaText": "",
+        "incidenciaObservarciones": "",
+        "finalizado":false,
+        "imagenAsStringBase64": ""
+    },
+    {
+        "id": "046000117",
+        "codigo": "1117",
+        "nombreCliente": "Mediamark",
+        "nombreEntrega":"",
+        "dniEntrega":"",
+        "direccion": "Calle Mayor, 10, 28013 Madrid, España",
+        "telefono": "655432192",
+        "cobrarAlCliente": false,
+        "fechaServicio": "2024-06-04",
+        "codBarras": "460001110007",
+        "incidencia": false,
+        "incidenciaText": "",
+        "incidenciaObservarciones": "",
+        "finalizado": false,
+        "imagenAsStringBase64": ""
+    }
+    ],
+      "estados": [
+        {
+          "id": "1",
+          "estado": "cliente no responde"
+        },
+        {
+          "id": "2",
+          "estado": "dirección incorrecta"
+        },
+        {
+          "id": "3",
+          "estado": "datos incorrectos"
+        },
+        {
+          "id": "4",
+          "estado": "paquete perdido"
+        },
+        {
+          "id": "5",
+          "estado": "retraso en el tráfico"
+        }
+      ]
+    }
